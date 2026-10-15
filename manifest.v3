@@ -11,16 +11,17 @@
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="WmFlatFile">10.7.0.0.43</value>
+    <value name="WmPublic">12.1.0.0.1222</value>
   </record>
   <null name="lazy_load_node_types"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">3</value>
+  <value name="build">4</value>
   <null name="description"/>
   <value name="created_date">12-10-2026 11:44:02 GMT</value>
   <null name="extendedProperties"/>
   <value name="target_server_version">12.1.0.0</value>
   <value name="isProjectPackage">false</value>
-  <value name="lastUpdated">2026-10-15T10:01:09.371235504Z</value>
+  <value name="lastUpdated">2026-10-15T10:17:26.44240522Z</value>
 </Values>
